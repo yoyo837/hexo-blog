@@ -27,6 +27,13 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+social:
+  GitHub: https://github.com/yoyo837
+  Twitter: http://twitter.com/yoyo837
+  Weibo: https://weibo.com/u/1744255881
+  # DouBan: your-douban-url
+  ZhiHu: https://www.zhihu.com/people/amumu837
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -72,7 +79,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-yilia
+# theme: hexo-theme-yilia
+theme: hexo-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
