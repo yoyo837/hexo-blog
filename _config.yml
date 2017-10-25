@@ -35,6 +35,15 @@ social:
   ZhiHu: https://www.zhihu.com/people/amumu837
 
 avatar: https://avatars0.githubusercontent.com/u/6134547?s=460&v=4
+# highlight_theme: night blue
+
+rss:
+# Menu configuration.
+menu:
+  home: /
+  archives: /archives
+
+since: 2017
 
 # Writing
 new_post_name: :title.md # File name of new posts
